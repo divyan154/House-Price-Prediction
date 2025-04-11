@@ -58,6 +58,12 @@ This is a simple machine learning project that predicts house prices using the c
 
 ---
 
+## ScreenShots
+![Screenshot (12)](https://github.com/user-attachments/assets/59d06936-715b-42cf-861b-97fb1d69edd5)
+![Screenshot (13)](https://github.com/user-attachments/assets/792bb65d-6499-42ed-8b38-6d1b37c00f80)
+
+
+
 ## 🧾 How to Use
 
 1. Clone the repository:
